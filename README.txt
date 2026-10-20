@@ -5,7 +5,9 @@ FULL SOURCE INCLUDED
 - index.html — complete site, SEO metadata and SVG icon system
 - styles.css — all desktop/tablet/mobile styling
 - script.js — functional mobile menu, sticky navigation, FAQ and animations
-- assets/favicon.svg — custom vector favicon
+- assets/favicon.svg — red N / cyan bubble branded vector favicon
+- assets/clean-n-go-logo.png — actual logo from business, transparent & optimized
+- assets/original-provided-logo.png — exact original user-provided logo with black background
 
 OPEN LOCALLY
 Double-click index.html to preview. An internet connection is required for the Google Fonts,
@@ -32,3 +34,8 @@ Image and font assets are delivered from third-party CDN services and require in
 Do not claim payment or online booking works; appointments are via direct phone call only.
 
 CREATED FOR: Quartz Web Solutions
+
+LOGO-BASED BRAND THEME
+Black #050505, white #FFFFFF, signature N red #E53932, bubble cyan #00D7F5.
+The layout uses the supplied Clean N Go logo in the header and footer, rather than an
+invented emblem. Source code and all logo assets are included. No build step required.
